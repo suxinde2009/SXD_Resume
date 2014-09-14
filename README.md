@@ -1,7 +1,7 @@
 MyResume
 ========
 
-个人电子简历.
+个人电子简历(待更新......)
 
 
-My personal resume.
+My personal resume(To be continued...)
